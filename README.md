@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Plovchikdeval&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h2 align="center">👋 Привет, я nloveuser</h2>
+<h2 align="center">👋 Привет, я Plovchikdeval</h2>
 <p align="center">💻 Fullstack-разработчик из мира Linux</p>
 
 ---
